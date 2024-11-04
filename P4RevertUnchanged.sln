@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4RevertUnchanged", "P4RevertUnchanged\P4RevertUnchanged.csproj", "{BEFA7F7D-E639-4AB1-8359-5362782E7845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFA7F7D-E639-4AB1-8359-5362782E7845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFA7F7D-E639-4AB1-8359-5362782E7845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFA7F7D-E639-4AB1-8359-5362782E7845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFA7F7D-E639-4AB1-8359-5362782E7845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
